@@ -64,7 +64,7 @@ const NetworkDashboard: React.FC = () => {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-gray-900">Network Monitor</h1>
-                <p className="text-sm text-gray-500">Real-time traffic analysis & threat detection</p>
+                <p className="text-sm text-gray-500">Live traffic analysis & threat detection</p>
               </div>
             </div>
             
